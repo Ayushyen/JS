@@ -23,3 +23,5 @@ object => will see later
 */
 console.log(typeof null);
 console.log(typeof undefined);
+
+//follow ecma and mdn docs for good code practices

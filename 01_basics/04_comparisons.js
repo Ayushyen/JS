@@ -25,5 +25,5 @@
 console.log(0=="0");
 console.log(0==="0");
 
-
+//ALWAYS FOCUS ON CLEAN CODE
 

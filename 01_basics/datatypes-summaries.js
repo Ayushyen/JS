@@ -36,3 +36,5 @@ let print = function(){
 }
 
 console.table([typeof id, typeof noValue,typeof notDefined,typeof smallNumber,typeof stringVariable,typeof bigNumber, typeof arrayString, typeof studentObject, typeof print]);
+
+//https://tc39.es/ecma262/#sec-typeof-operator

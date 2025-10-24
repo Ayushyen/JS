@@ -38,3 +38,10 @@ let print = function(){
 console.table([typeof id, typeof noValue,typeof notDefined,typeof smallNumber,typeof stringVariable,typeof bigNumber, typeof arrayString, typeof studentObject, typeof print]);
 
 //https://tc39.es/ecma262/#sec-typeof-operator
+
+//Heap vs Stack in JS
+
+//Stack: stores primitive datatypes and references of non primitive as well
+//Heap: stores the object values/fields in the memory and the reference to access it is in Stack
+
+//Logic is same as Java (Already covered in JVM internals) -_-
